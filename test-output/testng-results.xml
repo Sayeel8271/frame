@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T15:09:04 IST" name="Suite" finished-at="2022-01-17T15:12:10 IST" duration-ms="186555">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T15:09:04 IST" name="Sign in with wrong Details" finished-at="2022-01-17T15:09:18 IST" duration-ms="14566">
+      <class name="Prashant.A_SigninHomepg">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:Prashant.A_SigninHomepg@593aaf41]" started-at="2022-01-17T15:09:04 IST" name="intialize" finished-at="2022-01-17T15:09:07 IST" duration-ms="3263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="SigninHomepg()[pri:0, instance:Prashant.A_SigninHomepg@593aaf41]" started-at="2022-01-17T15:09:07 IST" name="SigninHomepg" finished-at="2022-01-17T15:09:17 IST" duration-ms="10335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SigninHomepg -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Prashant.A_SigninHomepg@593aaf41]" started-at="2022-01-17T15:09:18 IST" name="teardown" finished-at="2022-01-17T15:09:18 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Prashant.A_SigninHomepg -->
+    </test> <!-- Sign in with wrong Details -->
+    <test started-at="2022-01-17T15:09:18 IST" name="OutSatation Tab" finished-at="2022-01-17T15:09:32 IST" duration-ms="13715">
+      <class name="Prashant.B_OutstationHomePg">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:Prashant.B_OutstationHomePg@750e2b97]" started-at="2022-01-17T15:09:18 IST" name="intialize" finished-at="2022-01-17T15:09:20 IST" duration-ms="1472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="OutstationTab()[pri:0, instance:Prashant.B_OutstationHomePg@750e2b97]" started-at="2022-01-17T15:09:20 IST" name="OutstationTab" finished-at="2022-01-17T15:09:31 IST" duration-ms="11781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OutstationTab -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Prashant.B_OutstationHomePg@750e2b97]" started-at="2022-01-17T15:09:32 IST" name="teardown" finished-at="2022-01-17T15:09:32 IST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Prashant.B_OutstationHomePg -->
+    </test> <!-- OutSatation Tab -->
+    <test started-at="2022-01-17T15:09:32 IST" name="LocalTab " finished-at="2022-01-17T15:09:43 IST" duration-ms="11116">
+      <class name="Prashant.C_LocalTabHomepg">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:Prashant.C_LocalTabHomepg@f0c8a99]" started-at="2022-01-17T15:09:32 IST" name="intialize" finished-at="2022-01-17T15:09:33 IST" duration-ms="1215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="LocalTab()[pri:0, instance:Prashant.C_LocalTabHomepg@f0c8a99]" started-at="2022-01-17T15:09:33 IST" name="LocalTab" finished-at="2022-01-17T15:09:43 IST" duration-ms="9372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LocalTab -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Prashant.C_LocalTabHomepg@f0c8a99]" started-at="2022-01-17T15:09:43 IST" name="teardown" finished-at="2022-01-17T15:09:43 IST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Prashant.C_LocalTabHomepg -->
+    </test> <!-- LocalTab  -->
+    <test started-at="2022-01-17T15:09:43 IST" name="AirpotTab Tab" finished-at="2022-01-17T15:10:07 IST" duration-ms="24104">
+      <class name="Prashant.D_AirpotTabHomepg">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:Prashant.D_AirpotTabHomepg@54c5a2ff]" started-at="2022-01-17T15:09:43 IST" name="intialize" finished-at="2022-01-17T15:09:45 IST" duration-ms="1512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="AirpotTab()[pri:0, instance:Prashant.D_AirpotTabHomepg@54c5a2ff]" started-at="2022-01-17T15:09:45 IST" name="AirpotTab" finished-at="2022-01-17T15:10:06 IST" duration-ms="21744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AirpotTab -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Prashant.D_AirpotTabHomepg@54c5a2ff]" started-at="2022-01-17T15:10:07 IST" name="teardown" finished-at="2022-01-17T15:10:07 IST" duration-ms="586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Prashant.D_AirpotTabHomepg -->
+    </test> <!-- AirpotTab Tab -->
+    <test started-at="2022-01-17T15:10:07 IST" name="information from the Feature File" finished-at="2022-01-17T15:10:38 IST" duration-ms="30880">
+      <class name="Prashant.E_FeaturedHomepg">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:Prashant.E_FeaturedHomepg@2e8c1c9b]" started-at="2022-01-17T15:10:07 IST" name="intialize" finished-at="2022-01-17T15:10:10 IST" duration-ms="2670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="FeaturedTab()[pri:0, instance:Prashant.E_FeaturedHomepg@2e8c1c9b]" started-at="2022-01-17T15:10:10 IST" name="FeaturedTab" finished-at="2022-01-17T15:10:35 IST" duration-ms="25530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FeaturedTab -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Prashant.E_FeaturedHomepg@2e8c1c9b]" started-at="2022-01-17T15:10:37 IST" name="teardown" finished-at="2022-01-17T15:10:38 IST" duration-ms="822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Prashant.E_FeaturedHomepg -->
+    </test> <!-- information from the Feature File -->
+    <test started-at="2022-01-17T15:10:38 IST" name="checking the website contact details" finished-at="2022-01-17T15:10:49 IST" duration-ms="10620">
+      <class name="Prashant.F_ContactUsHomepg">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:Prashant.F_ContactUsHomepg@7d0b7e3c]" started-at="2022-01-17T15:10:38 IST" name="intialize" finished-at="2022-01-17T15:10:39 IST" duration-ms="1223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="ContactUsTab()[pri:0, instance:Prashant.F_ContactUsHomepg@7d0b7e3c]" started-at="2022-01-17T15:10:39 IST" name="ContactUsTab" finished-at="2022-01-17T15:10:48 IST" duration-ms="8692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUsTab -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Prashant.F_ContactUsHomepg@7d0b7e3c]" started-at="2022-01-17T15:10:48 IST" name="teardown" finished-at="2022-01-17T15:10:49 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Prashant.F_ContactUsHomepg -->
+    </test> <!-- checking the website contact details -->
+    <test started-at="2022-01-17T15:10:49 IST" name="Details about the website" finished-at="2022-01-17T15:11:01 IST" duration-ms="11907">
+      <class name="Prashant.G_AboutUsHomepg">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:Prashant.G_AboutUsHomepg@7674f035]" started-at="2022-01-17T15:10:49 IST" name="intialize" finished-at="2022-01-17T15:10:51 IST" duration-ms="2347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="AboutUsTab()[pri:0, instance:Prashant.G_AboutUsHomepg@7674f035]" started-at="2022-01-17T15:10:51 IST" name="AboutUsTab" finished-at="2022-01-17T15:11:00 IST" duration-ms="8491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutUsTab -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Prashant.G_AboutUsHomepg@7674f035]" started-at="2022-01-17T15:11:00 IST" name="teardown" finished-at="2022-01-17T15:11:01 IST" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Prashant.G_AboutUsHomepg -->
+    </test> <!-- Details about the website -->
+    <test started-at="2022-01-17T15:11:01 IST" name="Blogging about the website" finished-at="2022-01-17T15:11:40 IST" duration-ms="39892">
+      <class name="Prashant.H_BloggingHomepg">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:Prashant.H_BloggingHomepg@54422e18]" started-at="2022-01-17T15:11:01 IST" name="intialize" finished-at="2022-01-17T15:11:02 IST" duration-ms="1218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="Blogging_icon()[pri:0, instance:Prashant.H_BloggingHomepg@54422e18]" started-at="2022-01-17T15:11:02 IST" name="Blogging_icon" finished-at="2022-01-17T15:11:40 IST" duration-ms="38072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Blogging_icon -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Prashant.H_BloggingHomepg@54422e18]" started-at="2022-01-17T15:11:40 IST" name="teardown" finished-at="2022-01-17T15:11:40 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Prashant.H_BloggingHomepg -->
+    </test> <!-- Blogging about the website -->
+    <test started-at="2022-01-17T15:11:40 IST" name="checking for the one way cab facility" finished-at="2022-01-17T15:11:59 IST" duration-ms="18059">
+      <class name="Prashant.I_OneWayCabHomepg">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:Prashant.I_OneWayCabHomepg@1ca3b418]" started-at="2022-01-17T15:11:40 IST" name="intialize" finished-at="2022-01-17T15:11:42 IST" duration-ms="1502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="OneWayCabTab()[pri:0, instance:Prashant.I_OneWayCabHomepg@1ca3b418]" started-at="2022-01-17T15:11:42 IST" name="OneWayCabTab" finished-at="2022-01-17T15:11:58 IST" duration-ms="15819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OneWayCabTab -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Prashant.I_OneWayCabHomepg@1ca3b418]" started-at="2022-01-17T15:11:58 IST" name="teardown" finished-at="2022-01-17T15:11:59 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Prashant.I_OneWayCabHomepg -->
+    </test> <!-- checking for the one way cab facility -->
+    <test started-at="2022-01-17T15:11:59 IST" name="Car Rental in particular cities" finished-at="2022-01-17T15:12:10 IST" duration-ms="11624">
+      <class name="Prashant.J_CarRentalHomepg">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:Prashant.J_CarRentalHomepg@1cf6d1be]" started-at="2022-01-17T15:11:59 IST" name="intialize" finished-at="2022-01-17T15:12:00 IST" duration-ms="1459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="CarRental()[pri:0, instance:Prashant.J_CarRentalHomepg@1cf6d1be]" started-at="2022-01-17T15:12:00 IST" name="CarRental" finished-at="2022-01-17T15:12:10 IST" duration-ms="9702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarRental -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Prashant.J_CarRentalHomepg@1cf6d1be]" started-at="2022-01-17T15:12:10 IST" name="teardown" finished-at="2022-01-17T15:12:10 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Prashant.J_CarRentalHomepg -->
+    </test> <!-- Car Rental in particular cities -->
+  </suite> <!-- Suite -->
+</testng-results>

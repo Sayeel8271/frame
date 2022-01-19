@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+     <listener class-name="Prashant.Listners"/>
+     <listener class-name="Resources.ExtentReporterNG"/>
+     
+</listeners>
+
+  <test  name="Sign in with wrong Details">
+    <classes>
+      <class name="Prashant.A_SigninHomepg"/>
+      
+    </classes>
+  </test>
+  
+  <test  name="OutSatation Tab">
+    <classes>
+      <class name="Prashant.B_OutstationHomePg"/>
+      </classes>
+  </test>
+   <test  name="LocalTab ">
+    <classes>
+      <class name="Prashant.C_LocalTabHomepg"/>
+      </classes>
+  </test>
+   <test  name="AirpotTab Tab">
+    <classes>
+      <class name="Prashant.D_AirpotTabHomepg"/>
+      </classes>
+  </test>
+  
+   <test  name="information from the Feature File">
+    <classes>
+      <class name="Prashant.E_FeaturedHomepg"/>
+      </classes>
+  </test>
+   <test  name="checking the website contact details">
+    <classes>
+      <class name="Prashant.F_ContactUsHomepg"/>
+      </classes>
+  </test>
+   <test  name="Details about the website">
+    <classes>
+      <class name="Prashant.G_AboutUsHomepg"/>
+      </classes>
+  </test>
+   <test  name="Blogging about the website">
+    <classes>
+      <class name="Prashant.H_BloggingHomepg"/>
+      </classes>
+  </test>
+   <test  name="checking for the one way cab facility">
+    <classes>
+      <class name="Prashant.I_OneWayCabHomepg"/>
+      </classes>
+  </test>
+   <test  name="Car Rental in particular cities">
+    <classes>
+      <class name="Prashant.J_CarRentalHomepg"/>
+      </classes>
+  </test>
+</suite> 

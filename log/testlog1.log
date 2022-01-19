@@ -1,0 +1,51 @@
+2022-01-17 15:09:16,755 [main] INFO Prashant.A_SigninHomepg - click on the sign in tab
+2022-01-17 15:09:17,183 [main] INFO Prashant.A_SigninHomepg - click on the email and fill the email id
+2022-01-17 15:09:17,305 [main] INFO Prashant.A_SigninHomepg - click on the Password and fill the password
+2022-01-17 15:09:17,375 [main] INFO Prashant.A_SigninHomepg - successfully clicked on the login button
+2022-01-17 15:09:17,772 [main] WARN Prashant.A_SigninHomepg - Log in error message is displayed
+2022-01-17 15:09:26,469 [main] INFO Prashant.B_OutstationHomePg - Reading the data from the excel sheet
+2022-01-17 15:09:26,622 [main] INFO Prashant.B_OutstationHomePg - click on the roundtrip radio button
+2022-01-17 15:09:26,803 [main] INFO Prashant.B_OutstationHomePg - sending FROM city detail from excel sheet
+2022-01-17 15:09:28,940 [main] INFO Prashant.B_OutstationHomePg - selecting the city using Arrow Down key
+2022-01-17 15:09:28,976 [main] INFO Prashant.B_OutstationHomePg - selecting the city to press enter
+2022-01-17 15:09:29,106 [main] INFO Prashant.B_OutstationHomePg - sending TO city detail from excel sheet
+2022-01-17 15:09:31,149 [main] INFO Prashant.B_OutstationHomePg - selecting the city using Arrow Down key
+2022-01-17 15:09:31,381 [main] INFO Prashant.B_OutstationHomePg - Clicking on the return date tab
+2022-01-17 15:09:31,647 [main] INFO Prashant.B_OutstationHomePg - selecting the date
+2022-01-17 15:09:31,959 [main] INFO Prashant.B_OutstationHomePg - clicking on the select car button 
+2022-01-17 15:09:39,645 [main] INFO Prashant.C_LocalTabHomepg - Reading the data from the excel sheet
+2022-01-17 15:09:39,767 [main] INFO Prashant.C_LocalTabHomepg - cliking on the local tab
+2022-01-17 15:09:39,930 [main] INFO Prashant.C_LocalTabHomepg - sending the city name using excel sheet
+2022-01-17 15:09:40,375 [main] INFO Prashant.C_LocalTabHomepg - selecting the timing for booking
+2022-01-17 15:09:40,715 [main] INFO Prashant.C_LocalTabHomepg - selecting the timing for booking using Arrow Down key
+2022-01-17 15:09:41,010 [main] INFO Prashant.C_LocalTabHomepg - selecting the car as per requirement
+2022-01-17 15:09:42,224 [main] INFO Prashant.C_LocalTabHomepg - Displaying the car name into console
+2022-01-17 15:09:42,995 [main] INFO Prashant.C_LocalTabHomepg - Verifying the name of the car
+2022-01-17 15:09:51,659 [main] INFO Prashant.D_AirpotTabHomepg - Reading the data from the excel sheet
+2022-01-17 15:09:51,844 [main] INFO Prashant.D_AirpotTabHomepg - clicking on the airpot tab
+2022-01-17 15:09:52,117 [main] INFO Prashant.D_AirpotTabHomepg - sending the city name using excel sheet
+2022-01-17 15:09:54,238 [main] INFO Prashant.D_AirpotTabHomepg - selecting the city for booking using Arrow Down key
+2022-01-17 15:09:54,367 [main] INFO Prashant.D_AirpotTabHomepg - selecting the trip info for booking
+2022-01-17 15:09:54,690 [main] INFO Prashant.D_AirpotTabHomepg - Reading the drop address details from the excel sheet
+2022-01-17 15:09:59,031 [main] INFO Prashant.D_AirpotTabHomepg - clicking on the calender to select the date
+2022-01-17 15:10:01,096 [main] INFO Prashant.D_AirpotTabHomepg - clicking on the time tab to select the time
+2022-01-17 15:10:03,797 [main] INFO Prashant.D_AirpotTabHomepg - Verifying the car with the name
+2022-01-17 15:10:04,416 [main] INFO Prashant.D_AirpotTabHomepg - filling the details for booking
+2022-01-17 15:10:06,810 [main] ERROR Prashant.D_AirpotTabHomepg - selecting the proceed detail with wrong mobile number format
+2022-01-17 15:10:15,731 [main] INFO Prashant.E_FeaturedHomepg - cliking on the indian express 
+2022-01-17 15:10:15,746 [main] INFO Prashant.E_FeaturedHomepg - Navigating to other window using window handle
+2022-01-17 15:10:35,850 [main] INFO Prashant.E_FeaturedHomepg - Printing the Headline of indian express
+2022-01-17 15:10:46,100 [main] INFO Prashant.F_ContactUsHomepg - Clicking on the contact us tab 
+2022-01-17 15:10:46,128 [main] INFO Prashant.F_ContactUsHomepg - Navigating to other window using window handling method
+2022-01-17 15:10:48,464 [main] INFO Prashant.F_ContactUsHomepg - Getting all the information about contact details
+2022-01-17 15:10:57,733 [main] INFO Prashant.G_AboutUsHomepg - Clicking on the about us tab
+2022-01-17 15:10:59,998 [main] INFO Prashant.G_AboutUsHomepg - Printing the name of the CEO of savaari.com
+2022-01-17 15:11:09,432 [main] INFO Prashant.H_BloggingHomepg - clicking on the blogging icon
+2022-01-17 15:11:14,469 [main] INFO Prashant.H_BloggingHomepg - Navigating the other window using window handling tab
+2022-01-17 15:11:29,319 [main] INFO Prashant.H_BloggingHomepg - clicking on the Travel Tab
+2022-01-17 15:11:40,378 [main] INFO Prashant.H_BloggingHomepg - clicking on the city and geeting the information about that city
+2022-01-17 15:11:49,831 [main] INFO Prashant.I_OneWayCabHomepg - clicking on OneWayCabTextTab
+2022-01-17 15:11:54,191 [main] INFO Prashant.I_OneWayCabHomepg - clicking on the city name that you want to select
+2022-01-17 15:11:58,281 [main] INFO Prashant.I_OneWayCabHomepg - click on the signin tab on the third window using two times window handling method
+2022-01-17 15:12:07,995 [main] INFO Prashant.J_CarRentalHomepg - click on the city on car rental section
+2022-01-17 15:12:10,032 [main] INFO Prashant.J_CarRentalHomepg - getting the text after clicking on the city
